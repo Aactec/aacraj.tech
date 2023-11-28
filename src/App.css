@@ -1,0 +1,5 @@
+.Background{
+  background-image: linear-gradient(#B7C9EA, #DDF3F0);
+  background-attachment: fixed;
+  min-height: 100vh;
+}
