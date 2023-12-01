@@ -8,8 +8,8 @@ import { FaGithubSquare } from "react-icons/fa";
 
 function FooterComponent() {
     return (
-        <footer className='m-auto w-[80%] pt-14 font-revalia'>
-            <div className='flex justify-between items-end py-12 border-t border-t-primary'>
+        <footer className='m-auto w-[90%] pt-14 font-revalia'>
+            <div className='flex flex-col gap-16 py-12 border-t border-t-primary'>
                 <div className=''>
                     <h2 className='font-russo text-2xl bg-clip-text text-transparent bg-gradient-to-r from-secondaryfirst to-secondary'>Aacraj.Tech</h2>
                     <p>Frontend Developer</p>

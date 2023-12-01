@@ -5,9 +5,9 @@ import hourly from './../asset/icon/hourglass.svg';
 
 function PricingTableComponent() {
     return (
-        <section className='m-auto w-[80%] py-14' id="pricing">
+        <section className='m-auto w-[90%] py-14' id="pricing">
             <h3 className='text-center text-xl font-bold py-12 font-russo'>Pricing Table</h3>
-            <div className='flex justify-between font-revalia gap-4 text-center'>
+            <div className='flex flex-col font-revalia gap-4 text-center'>
                 <div className='bg-white p-6 w-53 rounded-md'>
                     <div className='flex gap-4 items-center pb-3 justify-center'>
                     <img className='' src={calender} alt="" />
